@@ -1,0 +1,4 @@
+Junior Software Engineer
+
+Build reliable Python services and data pipelines. Write automated tests, use Git and Docker,
+and diagnose defects with reproducible evidence. SQL and Linux experience are preferred.
